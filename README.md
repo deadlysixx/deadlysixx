@@ -14,7 +14,7 @@ Seja bem vindo ao meu perfil.
   <div>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salatiel-couto-a9090a75/)
-[![My Skills](https://skillicons.dev/icons?i=windows)](mailto:salat.couto@hotmail.com.com)
+[![My Skills](https://skillicons.dev/icons?i=windows)](mailto:salat.couto@hotmail.com)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/deadlysixx/)
 
   </div>
