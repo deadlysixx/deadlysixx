@@ -4,9 +4,9 @@ Seja bem vindo ao meu perfil.
 - 💻 Aspirante a DEV Fullstack
 - 🛠️ Em constante aprendizado
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlysixx\&show_icons=true\&theme=gruvbox)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlysixx)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlysixx\&show_icons=true\&theme=gruvbox)
 
 ## Frameworks em Aprenzidado
 [![My Skills](https://skillicons.dev/icons?i=react)](https://github.com/deadlysixx/)
