@@ -2,7 +2,7 @@
 Seja bem vindo ao meu perfil.
 
 - 💻 Aspirante a DEV Fullstack
-- 🛠️ Página profissional em contrução
+- 🛠️ Página profissional em construção
 
 ## Frameworks em Aprenzidado 📚
 [![My Skills](https://skillicons.dev/icons?i=react)](https://github.com/deadlysixx/)
